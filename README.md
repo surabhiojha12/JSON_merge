@@ -35,28 +35,28 @@ Input File Image
 ---------------
 * #### Data1.json
 
-![Data1](data1.png?raw=true "Optional Title")
+![Data1](data1.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 * #### Data2.json
 
-![Data2](data2.png?raw=true "Optional Title")
+![Data2](data2.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 * #### Data3.json
 
-![Data3](data3.png?raw=true "Optional Title")
+![Data3](data3.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 Output File Image
 ---------------
 * #### Merge1.json
 
-![Merge1](merge1_1.png?raw=true "Optional Title")
+![Merge1](merge1_1.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
 * #### Merge2.json
 
-![Merge2](merge1_2.png?raw=true "Optional Title")
+![Merge2](merge1_2.PNG?raw=true "Optional Title")
 -----------------------------------------------
 
