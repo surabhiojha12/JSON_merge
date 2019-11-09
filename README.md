@@ -14,22 +14,22 @@ Time Complexity
 ----------------
 The solution uses hash map technique. The solution is implemented in python so dictionary is used for the same.
 * #### Searching in Dictionary (hash map)
-Average Time: O(1)
-Worst Case: O(n)
+Average Time: O(1) <br/>
+Worst Case: O(n)  <br/>
 * #### Inserting a new entry in Dictionary (hash map)
-Average Time: O(1)
-Worst Case: O(n)
+Average Time: O(1) <br/>
+Worst Case: O(n)  <br/>
 * #### Iterating the Dictionary (hash map)
-Average Time: O(n)
-Worst Case: O(n)
+Average Time: O(n)  <br/>
+Worst Case: O(n)  <br/>
 * #### Appending values in a list
-Average Time: O(1)
-Worst Case: O(1)
+Average Time: O(1)  <br/>
+Worst Case: O(1)  <br/>
 
 * #### General analysis
 If there are n root keys in total(count of all root keys from all input files) and each root keys contains m objects in its value
-then,
-Average time complexity of merging is : O(n * m) as inserting and searching time is O(1) and iterating time of objects in root keys value is O(m) and iterating time of n root keys is O(n)
+then, <br/>
+<b> Average time complexity of merging is </b> : O(n * m) as inserting and searching time is O(1) and iterating time of objects in root keys value is O(m) and iterating time of n root keys is O(n)
 
 Input File Image
 ---------------
